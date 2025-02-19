@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 import './App.css'
-import { SongTable } from './SongTable'
+import { SongTable } from './SongTable/SongTable'
 
 function App() {
   console.log('App component rendering');
