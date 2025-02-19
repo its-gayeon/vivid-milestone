@@ -20,7 +20,8 @@
       "normal": 10,
       "hard": 16,
       "expert": 22,
-      "master": 26
+      "master": 26,
+      "append": 25
     }
   },
   {
@@ -156,7 +157,8 @@
       "normal": 11,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 28
     }
   },
   {
@@ -202,7 +204,8 @@
       "normal": 14,
       "hard": 19,
       "expert": 28,
-      "master": 32
+      "master": 32,
+      "append": 34
     }
   },
   {
@@ -226,7 +229,8 @@
       "normal": 11,
       "hard": 18,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 29
     }
   },
   {
@@ -380,7 +384,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 24,
-      "master": 27
+      "master": 27,
+      "append": 25
     }
   },
   {
@@ -426,7 +431,8 @@
       "normal": 11,
       "hard": 17,
       "expert": 23,
-      "master": 27
+      "master": 27,
+      "append": 28
     }
   },
   {
@@ -809,7 +815,8 @@
       "normal": 13,
       "hard": 16,
       "expert": 23,
-      "master": 27
+      "master": 27,
+      "append": 28
     }
   },
   {
@@ -1007,7 +1014,8 @@
       "normal": 13,
       "hard": 17,
       "expert": 24,
-      "master": 27
+      "master": 27,
+      "append": 30
     }
   },
   {
@@ -1029,7 +1037,8 @@
       "normal": 13,
       "hard": 17,
       "expert": 26,
-      "master": 30
+      "master": 30,
+      "append": 31
     }
   },
   {
@@ -1141,7 +1150,8 @@
       "normal": 11,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 25
     }
   },
   {
@@ -1187,7 +1197,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 26,
-      "master": 31
+      "master": 31,
+      "append": 30
     }
   },
   {
@@ -1673,7 +1684,8 @@
       "normal": 12,
       "hard": 16,
       "expert": 23,
-      "master": 28
+      "master": 28,
+      "append": 26
     }
   },
   {
@@ -1856,7 +1868,8 @@
       "normal": 11,
       "hard": 16,
       "expert": 22,
-      "master": 27
+      "master": 27,
+      "append": 28
     }
   },
   {
@@ -1900,7 +1913,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 29
     }
   },
   {
@@ -1922,7 +1936,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 29
     }
   },
   {
@@ -2058,7 +2073,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 25,
-      "master": 28
+      "master": 28,
+      "append": 26
     }
   },
   {
@@ -2078,7 +2094,8 @@
       "normal": 13,
       "hard": 16,
       "expert": 23,
-      "master": 26
+      "master": 26,
+      "append": 28
     }
   },
   {
@@ -2174,7 +2191,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 24,
-      "master": 29
+      "master": 29,
+      "append": 29
     }
   },
   {
@@ -2198,7 +2216,8 @@
       "normal": 14,
       "hard": 19,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 28
     }
   },
   {
@@ -2246,7 +2265,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 27
     }
   },
   {
@@ -2290,7 +2310,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 25,
-      "master": 30
+      "master": 30,
+      "append": 30
     }
   },
   {
@@ -2312,7 +2333,8 @@
       "normal": 14,
       "hard": 19,
       "expert": 27,
-      "master": 32
+      "master": 32,
+      "append": 33
     }
   },
   {
@@ -2334,7 +2356,8 @@
       "normal": 11,
       "hard": 15,
       "expert": 22,
-      "master": 26
+      "master": 26,
+      "append": 24
     }
   },
   {
@@ -2402,7 +2425,8 @@
       "normal": 11,
       "hard": 17,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 28
     }
   },
   {
@@ -2446,7 +2470,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 25,
-      "master": 31
+      "master": 31,
+      "append": 32
     }
   },
   {
@@ -2514,7 +2539,8 @@
       "normal": 14,
       "hard": 19,
       "expert": 27,
-      "master": 31
+      "master": 31,
+      "append": 33
     }
   },
   {
@@ -2831,7 +2857,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 31
     }
   },
   {
@@ -2853,7 +2880,8 @@
       "normal": 11,
       "hard": 18,
       "expert": 25,
-      "master": 28
+      "master": 28,
+      "append": 29
     }
   },
   {
@@ -3055,7 +3083,8 @@
       "normal": 12,
       "hard": 16,
       "expert": 25,
-      "master": 31
+      "master": 31,
+      "append": 26
     }
   },
   {
@@ -3080,7 +3109,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 26,
-      "master": 31
+      "master": 31,
+      "append": 30
     }
   },
   {
@@ -3193,7 +3223,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 29
     }
   },
   {
@@ -3413,7 +3444,8 @@
       "normal": 14,
       "hard": 17,
       "expert": 24,
-      "master": 27
+      "master": 27,
+      "append": 27
     }
   },
   {
@@ -3679,7 +3711,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 24,
-      "master": 29
+      "master": 29,
+      "append": 30
     }
   },
   {
@@ -3767,7 +3800,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 28
     }
   },
   {
@@ -3855,7 +3889,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 26
     }
   },
   {
@@ -3943,7 +3978,8 @@
       "normal": 14,
       "hard": 18,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 33
     }
   },
   {
@@ -4055,7 +4091,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 26,
-      "master": 29
+      "master": 29,
+      "append": 32
     }
   },
   {
@@ -4319,7 +4356,8 @@
       "normal": 12,
       "hard": 16,
       "expert": 23,
-      "master": 27
+      "master": 27,
+      "append": 26
     }
   },
   {
@@ -4407,7 +4445,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 24,
-      "master": 30
+      "master": 30,
+      "append": 29
     }
   },
   {
@@ -4451,7 +4490,8 @@
       "normal": 13,
       "hard": 19,
       "expert": 26,
-      "master": 32
+      "master": 32,
+      "append": 31
     }
   },
   {
@@ -4473,7 +4513,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 26,
-      "master": 30
+      "master": 30,
+      "append": 27
     }
   },
   {
@@ -4495,7 +4536,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 25,
-      "master": 30
+      "master": 30,
+      "append": 27
     }
   },
   {
@@ -4783,7 +4825,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 29
     }
   },
   {
@@ -4893,7 +4936,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 25,
-      "master": 31
+      "master": 31,
+      "append": 31
     }
   },
   {
@@ -4937,7 +4981,8 @@
       "normal": 11,
       "hard": 17,
       "expert": 23,
-      "master": 27
+      "master": 27,
+      "append": 30
     }
   },
   {
@@ -5182,7 +5227,8 @@
       "normal": 12,
       "hard": 19,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 29
     }
   },
   {
@@ -5384,7 +5430,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 26,
-      "master": 31
+      "master": 31,
+      "append": 33
     }
   },
   {
@@ -5583,7 +5630,8 @@
       "normal": 13,
       "hard": 17,
       "expert": 23,
-      "master": 28
+      "master": 28,
+      "append": 28
     }
   },
   {
@@ -5803,7 +5851,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 26,
-      "master": 30
+      "master": 30,
+      "append": 31
     }
   },
   {
@@ -5869,7 +5918,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 24,
-      "master": 29
+      "master": 29,
+      "append": 30
     }
   },
   {
@@ -7187,7 +7237,8 @@
       "normal": 11,
       "hard": 17,
       "expert": 22,
-      "master": 26
+      "master": 26,
+      "append": 25
     }
   },
   {
@@ -7363,7 +7414,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 27
     }
   },
   {
@@ -7418,7 +7470,7 @@
     "name-en": "Warera Stain Busters!",
     "alias": [],
     "producer": "Mashima Yulo",
-    "unit": "MORE MORE JUMP!\nOther",
+    "unit": "MORE MORE JUMP!",
     "bpm": "125",
     "duration": "1:44",
     "release-date": "2023-08-02",
@@ -7766,7 +7818,8 @@
       "normal": 13,
       "hard": 19,
       "expert": 25,
-      "master": 29
+      "master": 29,
+      "append": 32
     }
   },
   {
@@ -8492,7 +8545,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 25,
-      "master": 30
+      "master": 30,
+      "append": 31
     }
   },
   {
@@ -8646,7 +8700,8 @@
       "normal": 12,
       "hard": 21,
       "expert": 30,
-      "master": 32
+      "master": 32,
+      "append": 35
     }
   },
   {
@@ -8690,14 +8745,15 @@
       "normal": 13,
       "hard": 21,
       "expert": 29,
-      "master": 32
+      "master": 32,
+      "append": 36
     }
   },
   {
     "id": 393,
     "cover-art": "393.jpg",
     "name-jp": "心泥夢(syndrome)",
-    "name-ko": "심니몽(syndrome",
+    "name-ko": "심니몽(syndrome)",
     "name-en": "syndrome",
     "alias": [],
     "producer": "Miyamori Bungaku",
@@ -8758,7 +8814,8 @@
       "normal": 14,
       "hard": 21,
       "expert": 30,
-      "master": 33
+      "master": 33,
+      "append": 37
     }
   },
   {
@@ -8956,7 +9013,8 @@
       "normal": 12,
       "hard": 18,
       "expert": 26,
-      "master": 29
+      "master": 29,
+      "append": 30
     }
   },
   {
@@ -9022,7 +9080,8 @@
       "normal": 13,
       "hard": 16,
       "expert": 23,
-      "master": 27
+      "master": 27,
+      "append": 25
     }
   },
   {
@@ -9196,7 +9255,8 @@
       "normal": 15,
       "hard": 24,
       "expert": 31,
-      "master": 33
+      "master": 33,
+      "append": 36
     }
   },
   {
@@ -9414,7 +9474,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 29
     }
   },
   {
@@ -9436,7 +9497,8 @@
       "normal": 15,
       "hard": 23,
       "expert": 31,
-      "master": 34
+      "master": 34,
+      "append": 37
     }
   },
   {
@@ -9524,7 +9586,8 @@
       "normal": 14,
       "hard": 20,
       "expert": 28,
-      "master": 32
+      "master": 32,
+      "append": 35
     }
   },
   {
@@ -9533,7 +9596,9 @@
     "name-jp": "Bad Apple!! feat.SEKAI",
     "name-ko": "Bad Apple!! feat.SEKAI",
     "name-en": "Bad Apple feat. SEKAI",
-    "alias": [],
+    "alias": [
+      "배드애플"
+    ],
     "producer": "beatMARIO\nMaron\nmarasy",
     "unit": [
       "25-ji, Nightcord de.",
@@ -9547,7 +9612,8 @@
       "normal": 11,
       "hard": 18,
       "expert": 24,
-      "master": 29
+      "master": 29,
+      "append": 31
     }
   },
   {
@@ -9570,7 +9636,8 @@
       "normal": 13,
       "hard": 19,
       "expert": 26,
-      "master": 30
+      "master": 30,
+      "append": 32
     }
   },
   {
@@ -9636,7 +9703,8 @@
       "normal": 13,
       "hard": 18,
       "expert": 28,
-      "master": 31
+      "master": 31,
+      "append": 34
     }
   },
   {
@@ -9726,7 +9794,8 @@
       "normal": 13,
       "hard": 19,
       "expert": 26,
-      "master": 30
+      "master": 30,
+      "append": 31
     }
   },
   {
@@ -9792,7 +9861,8 @@
       "normal": 13,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 27
     }
   },
   {
@@ -9814,7 +9884,8 @@
       "normal": 12,
       "hard": 17,
       "expert": 24,
-      "master": 29
+      "master": 29,
+      "append": 30
     }
   },
   {
@@ -9909,7 +9980,9 @@
     "name-jp": "ダイジョブですか?",
     "name-ko": "괜찮으신가요?",
     "name-en": "Daijoubu Desu Ka?",
-    "alias": [],
+    "alias": [
+      "다이죠부"
+    ],
     "producer": "cosMo@BousouP",
     "unit": "VIRTUAL SINGER",
     "bpm": "155-254",
@@ -9920,7 +9993,8 @@
       "normal": 15,
       "hard": 23,
       "expert": 31,
-      "master": 34
+      "master": 34,
+      "append": 37
     }
   },
   {
@@ -10074,7 +10148,8 @@
       "normal": 13,
       "hard": 19,
       "expert": 27,
-      "master": 31
+      "master": 31,
+      "append": 33
     }
   },
   {
@@ -10086,7 +10161,7 @@
     "alias": [],
     "producer": "niki",
     "unit": [
-      "VIVID BAD SQUAD"
+      "Vivid BAD SQUAD"
     ],
     "bpm": "130",
     "duration": "1:57",
@@ -10343,7 +10418,8 @@
       "normal": 13,
       "hard": 16,
       "expert": 23,
-      "master": 29
+      "master": 29,
+      "append": 31
     }
   },
   {
@@ -10563,7 +10639,8 @@
       "normal": 14,
       "hard": 20,
       "expert": 29,
-      "master": 33
+      "master": 33,
+      "append": 36
     }
   },
   {
@@ -10629,7 +10706,8 @@
       "normal": 15,
       "hard": 23,
       "expert": 31,
-      "master": 34
+      "master": 34,
+      "append": 37
     }
   },
   {
@@ -10761,7 +10839,8 @@
       "normal": 13,
       "hard": 17,
       "expert": 24,
-      "master": 28
+      "master": 28,
+      "append": 27
     }
   },
   {
@@ -10883,7 +10962,7 @@
     "alias": [],
     "producer": "shikisai",
     "unit": [
-      "VIVID BAD SQUAD"
+      "Vivid BAD SQUAD"
     ],
     "bpm": "?",
     "duration": "3:37",
@@ -11128,7 +11207,7 @@
     "cover-art": "503.jpg",
     "name-jp": "厨病激発ボーイ",
     "name-ko": "중병격발 보이",
-    "name-en": "",
+    "name-en": "Chuubyou Gekihatsu Boy",
     "alias": [],
     "producer": "Neruriri",
     "unit": [
@@ -11143,6 +11222,338 @@
       "hard": 19,
       "expert": 27,
       "master": 32
+    }
+  },
+  {
+    "id": 504,
+    "cover-art": "504.jpg",
+    "name-jp": "ヘイヴン",
+    "name-ko": "헤이븐",
+    "name-en": "Haven",
+    "alias": [],
+    "producer": "煮ル果実",
+    "unit": "Vivid BAD SQUAD",
+    "bpm": "",
+    "duration": "1:57",
+    "release-date": "2025-01-19",
+    "difficulties": {
+      "easy": 7,
+      "normal": 12,
+      "hard": 19,
+      "expert": 26,
+      "master": 30
+    }
+  },
+  {
+    "id": 505,
+    "cover-art": "505.jpg",
+    "name-jp": "夏に透明",
+    "name-ko": "여름에 투명",
+    "name-en": "Natsuni Toumei",
+    "alias": [],
+    "producer": "Twinfield",
+    "unit": "VIRTUAL SINGER",
+    "bpm": "",
+    "duration": "2:01",
+    "release-date": "2025-01-21",
+    "difficulties": {
+      "easy": 6,
+      "normal": 13,
+      "hard": 17,
+      "expert": 24,
+      "master": 28
+    }
+  },
+  {
+    "id": 506,
+    "cover-art": "506.jpg",
+    "name-jp": "パンダヒーロー",
+    "name-ko": "판다 히어로",
+    "name-en": "Panda Hero",
+    "alias": [],
+    "producer": "Hachi",
+    "unit": "VIRTUAL SINGER",
+    "bpm": "",
+    "duration": "1:41",
+    "release-date": "2025-01-22",
+    "difficulties": {
+      "easy": 8,
+      "normal": 13,
+      "hard": 18,
+      "expert": 24,
+      "master": 30
+    }
+  },
+  {
+    "id": 507,
+    "cover-art": "507.jpg",
+    "name-jp": "結ンデ開イテ羅刹ト骸",
+    "name-ko": "쥐었다가 펼쳐서 나찰과 송장",
+    "name-en": "Musunde Hiraite Rasetsu to Mukuro",
+    "alias": [],
+    "producer": "Hachi",
+    "unit": "VIRTUAL SINGER",
+    "bpm": "",
+    "duration": "2:11",
+    "release-date": "2025-01-23",
+    "difficulties": {
+      "easy": 7,
+      "normal": 13,
+      "hard": 18,
+      "expert": 24,
+      "master": 29
+    }
+  },
+  {
+    "id": 508,
+    "cover-art": "508.jpg",
+    "name-jp": "ファイアダンス",
+    "name-ko": "파이어 댄스",
+    "name-en": "Fire Dance",
+    "alias": [],
+    "producer": "DECO*27",
+    "unit": "Vivid BAD SQUAD",
+    "bpm": "",
+    "duration": "1:32",
+    "release-date": "2025-01-25",
+    "difficulties": {
+      "easy": 6,
+      "normal": 12,
+      "hard": 18,
+      "expert": 25,
+      "master": 29
+    }
+  },
+  {
+    "id": 509,
+    "cover-art": "509.jpg",
+    "name-jp": "そこに在る、光。",
+    "name-ko": "그곳에 있는, 빛.",
+    "name-en": "Sokoniaru, Hikari.",
+    "alias": [],
+    "producer": "DECO*27",
+    "unit": "25-ji, Nightcord de.",
+    "bpm": "",
+    "duration": "1:37",
+    "release-date": "2025-01-28",
+    "difficulties": {
+      "easy": 6,
+      "normal": 12,
+      "hard": 16,
+      "expert": 22,
+      "master": 27
+    }
+  },
+  {
+    "id": 510,
+    "cover-art": "510.jpg",
+    "name-jp": "Worlders",
+    "name-ko": "Worlders",
+    "name-en": "Worlders",
+    "alias": [],
+    "producer": "Jin",
+    "unit": [
+      "VIRTUAL SINGER",
+      "Leo/need",
+      "MORE MORE JUMP!",
+      "Vivid BAD SQUAD",
+      "Wonderlands×Showtime",
+      "25-ji, Nightcord de."
+    ],
+    "bpm": "",
+    "duration": "2:13",
+    "release-date": "2025-01-29",
+    "difficulties": {
+      "easy": 7,
+      "normal": 13,
+      "hard": 18,
+      "expert": 24,
+      "master": 28
+    }
+  },
+  {
+    "id": 511,
+    "cover-art": "511.jpg",
+    "name-jp": "FUN!!",
+    "name-ko": "FUN!!",
+    "name-en": "FUN!!",
+    "alias": [],
+    "producer": "DECO*27",
+    "unit": "MORE MORE JUMP!",
+    "bpm": "",
+    "duration": "1:36",
+    "release-date": "2025-01-31",
+    "difficulties": {
+      "easy": 8,
+      "normal": 13,
+      "hard": 17,
+      "expert": 25,
+      "master": 29
+    }
+  },
+  {
+    "id": 512,
+    "cover-art": "512.jpg",
+    "name-jp": "終焉逃避行",
+    "name-ko": "종언도피행",
+    "name-en": "Shuuen Touhikou",
+    "alias": [],
+    "producer": "Hiiragi Magnetite",
+    "unit": "Leo/need",
+    "bpm": "",
+    "duration": "1:40",
+    "release-date": "2025-02-01",
+    "difficulties": {
+      "easy": 6,
+      "normal": 12,
+      "hard": 18,
+      "expert": 25,
+      "master": 29
+    }
+  },
+  {
+    "id": 513,
+    "cover-art": "513.jpg",
+    "name-jp": "スマイル*シンフォニー",
+    "name-ko": "스마일*심포니",
+    "name-en": "Smile Symphony",
+    "alias": [],
+    "producer": "DECO*27",
+    "unit": "Wonderlands×Showtime",
+    "bpm": "",
+    "duration": "1:34",
+    "release-date": "2025-02-03",
+    "difficulties": {
+      "easy": 5,
+      "normal": 12,
+      "hard": 17,
+      "expert": 24,
+      "master": 28
+    }
+  },
+  {
+    "id": 514,
+    "cover-art": "514.jpg",
+    "name-jp": "SToRY",
+    "name-ko": "SToRY",
+    "name-en": "SToRY",
+    "alias": [
+      "스토리"
+    ],
+    "producer": "DECO*27",
+    "unit": "Leo/need",
+    "bpm": "",
+    "duration": "1:37",
+    "release-date": "2025-02-06",
+    "difficulties": {
+      "easy": 8,
+      "normal": 13,
+      "hard": 18,
+      "expert": 25,
+      "master": 29
+    }
+  },
+  {
+    "id": 515,
+    "cover-art": "515.jpg",
+    "name-jp": "クリスタルスノウ",
+    "name-ko": "크리스털 스노우",
+    "name-en": "Crystal Snow",
+    "alias": [
+      "크리스탈 스노우"
+    ],
+    "producer": "aqu3ra",
+    "unit": "VIRTUAL SINGER",
+    "bpm": "",
+    "duration": "1:45",
+    "release-date": "2025-02-08",
+    "difficulties": {
+      "easy": 6,
+      "normal": 12,
+      "hard": 17,
+      "expert": 23,
+      "master": 26
+    }
+  },
+  {
+    "id": 516,
+    "cover-art": "516.jpg",
+    "name-jp": "ハローセカイ",
+    "name-ko": "헬로 세카이",
+    "name-en": "Hello Sekai",
+    "alias": [],
+    "producer": "DECO*27",
+    "unit": "VIRTUAL SINGER",
+    "bpm": "",
+    "duration": "1:45",
+    "release-date": "2025-02-09",
+    "difficulties": {
+      "easy": 7,
+      "normal": 12,
+      "hard": 17,
+      "expert": 24,
+      "master": 28
+    }
+  },
+  {
+    "id": 517,
+    "cover-art": "517.jpg",
+    "name-jp": "アンチユー",
+    "name-ko": "안티 유",
+    "name-en": "Anti You",
+    "alias": [],
+    "producer": "Chinozo",
+    "unit": "MORE MORE JUMP!",
+    "bpm": "",
+    "duration": "2:00",
+    "release-date": "2025-02-10",
+    "difficulties": {
+      "easy": 6,
+      "normal": 12,
+      "hard": 17,
+      "expert": 24,
+      "master": 28
+    }
+  },
+  {
+    "id": 518,
+    "cover-art": "518.jpg",
+    "name-jp": "ルルブ",
+    "name-ko": "룰 북",
+    "name-en": "Rule Book",
+    "alias": [],
+    "producer": "Fujiwara Hagane",
+    "unit": "VIRTUAL SINGER",
+    "bpm": "",
+    "duration": "2:05",
+    "release-date": "2025-02-12",
+    "difficulties": {
+      "easy": 9,
+      "normal": 14,
+      "hard": 18,
+      "expert": 27,
+      "master": 31
+    }
+  },
+  {
+    "id": 519,
+    "cover-art": "519.jpg",
+    "name-jp": "フュージョン",
+    "name-ko": "퓨전",
+    "name-en": "Fusion",
+    "alias": [],
+    "producer": "DECO*27",
+    "unit": "DI:Verse",
+    "bpm": "",
+    "duration": "2:04",
+    "release-date": "2025-02-15",
+    "difficulties": {
+      "easy": 8,
+      "normal": 13,
+      "hard": 17,
+      "expert": 27,
+      "master": 30,
+      "append": 34
     }
   }
 ]
