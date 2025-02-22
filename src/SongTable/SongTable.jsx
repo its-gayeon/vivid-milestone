@@ -5,8 +5,13 @@ import { TableFilters } from './TableFilters';
 import { TableHeader } from './TableHeader';
 
 export function SongTable() {
-    const difficulties = ["Easy", "Normal", "Hard", "Expert", "Master", "Append"];
+    const CELL_STATES = ['', 'CL', 'FC', 'AP'];
+    const [markedCells, setMarkedCells] = useState(() => {
+        const saved = localStorage.getItem('markedCells');
+        return saved ? JSON.parse(saved) : {};
+    });
 
+    const difficulties = ["Easy", "Normal", "Hard", "Expert", "Master", "Append"];
     let [language, setLanguage] = useState("name-jp");
     let [searchString, setSearchString] = useState('');
     let [sortConfig, setSortConfig] = useState({
@@ -23,7 +28,7 @@ export function SongTable() {
                     : prevConfig.status === 'desc'
                         ? 'asc'
                         : null
-                : 'asc'
+                : 'desc'
         }));
 
     };
@@ -84,6 +89,32 @@ export function SongTable() {
 
     }, [sortConfig, searchString]);
 
+    const handleCellClick = (songId, difficulty) => {
+        if (songData.find(song => song.id === songId).difficulties[difficulty] === undefined) {
+            return;
+        }
+
+        const cellKey = `${songId}-${difficulty}`;
+        setMarkedCells(prev => {
+            const currentState = prev[cellKey] || '';
+            const newStateIndex = (CELL_STATES.indexOf(currentState) + 1) % CELL_STATES.length;
+            const nextState = CELL_STATES[newStateIndex];
+
+            const newMarkedCells = {
+                ...prev,
+                [cellKey]: nextState
+            };
+
+            if (nextState === '') {
+                delete newMarkedCells[cellKey];
+            }
+
+            localStorage.setItem('markedCells', JSON.stringify(newMarkedCells));
+            return newMarkedCells;
+        });
+    };
+
+
     return (
         <>
             <TableFilters
@@ -124,7 +155,7 @@ export function SongTable() {
                                 <td>
                                     <img
                                         src={`src/assets/cover-arts/${song['cover-art']}`}
-                                        alt={`${song['name-en']} cover`}
+                                        alt={`${song['id']} cover`}
                                         className='song-cover'
                                     />
                                 </td>
@@ -132,6 +163,9 @@ export function SongTable() {
                                 {difficulties.map((difficulty) => (
                                     <td
                                         key={difficulty}
+                                        onClick={() => handleCellClick(song.id, difficulty.toLowerCase())}
+                                        className='table-cell'
+                                        type={`${markedCells[`${song.id}-${difficulty.toLowerCase()}`]}`}
                                     >
                                         {song.difficulties[difficulty.toLowerCase()] || "-"}
                                     </td>
