@@ -5,41 +5,99 @@
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+h1 {
+  font-size: 2rem;
+  /* margin-bottom: 1rem; */
 }
 
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+.nav-button {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  font-size: x-large;
+  width: 2em;
+  height: 2em;
+  background-color: transparent;
+  box-shadow: 0px 0px 1.5px #444;
+  border-radius: 50%;
+  border: none;
+  color: black;
+  cursor: pointer;
+  z-index: 2;
 }
 
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.nav-button.open {
+  color: white;
+  box-shadow: none;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
+.nav-container {
+  position: fixed;
+  top: 0;
+  right: -20%;
+  /* Hide menu by default */
+  width: 20%;
+  height: 100vh;
+  background-color: rgba(4, 0, 28, 0.7);
+  transition: right 0.3s ease;
+  z-index: 1;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.nav-container.open {
+  right: 0;
+  /* Show menu when open */
 }
 
-.card {
-  padding: 2em;
+.nav-list {
+  /* display: flex; */
+  flex-wrap: wrap row;
+  justify-content: space-around;
+  margin-top: 5rem;
+  height: 2em;
+  border-radius: 20px;
 }
 
-.read-the-docs {
-  color: #888;
+.nav-list li {
+  display: block;
+  list-style: none;
+  height: 5em;
+  width: 80%;
+  padding-top: 0.5em;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: 0px 0px 7px #232323;
+  margin: 1em 1em;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  user-select: none;
+}
+
+.nav-item-title {
+  text-decoration: none;
+  background-color: #444465;
+  width: max-content;
+  padding: 0 2px;
+  line-height: 1.3em;
+  /* font-family: "FOT-RodinNTLG Pro UB", ; */
+  font-size: larger;
+  font-weight: 900;
+  margin-left: 10px;
+  color: white;
+  /* text-shadow: 0px 1px, 0px 0px, 1px 0px; */
+}
+
+.nav-item-title::first-letter {
+  color: #ff77ab;
+}
+
+.nav-item-sub {
+  font-weight: 900;
+  align-self: flex-start;
+  color: white;
+  font-size: x-large;
 }
